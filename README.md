@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mickey-40)
 [![GitHub followers](https://img.shields.io/github/followers/mickey-40?label=Follow&style=social)](https://github.com/mickey-40?tab=followers)
-[![Linkedin: Mick Arnold](https://img.shields.io/badge/-Mick%20Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mick-arnold-635985226/)](https://www.linkedin.com/in/mick-arnold-635985226/)
+[![Linkedin: Mick Arnold](https://img.shields.io/badge/-Mick%20Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickey-arnold-635985226/)](https://www.linkedin.com/in/mick-arnold-635985226/)
 [![Twitter: MickeyA53](https://img.shields.io/twitter/follow/MickeyA53?style=social)](https://twitter.com/MickeyA53)
 
 ## About Me
@@ -15,7 +15,7 @@ I'm an aspiring software engineer who completed a coding boot camp through Gener
   - **Math Teacher**: Designed data-driven lessons, led a grade-level team, differentiated lessons to meet individual needs, and achieved state test scores of over 90%.
 - 📫 How to reach me: 
   - **Email**: mickeyarnold53@yahoo.com
-  - **LinkedIn**: [Mick Arnold](https://www.linkedin.com/in/mick-arnold-635985226/)
+  - **LinkedIn**: [Mick Arnold](www.linkedin.com/in/mickey-arnold)
   - **Twitter**: [@MickeyA53](https://twitter.com/MickeyA53)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Something interesting about you]
