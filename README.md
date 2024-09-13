@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mickey-40)
 [![GitHub followers](https://img.shields.io/github/followers/mickey-40?label=Follow&style=social)](https://github.com/mickey-40?tab=followers)
-[![Linkedin: Mick Arnold](https://img.shields.io/badge/-Mick%20Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickey-arnold-635985226/)](https://www.linkedin.com/in/mick-arnold-635985226/)
+[![Linkedin: Mick Arnold](https://img.shields.io/badge/-Mick%20Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mickey-arnold-635985226/)](https://www.linkedin.com/in/mickey-arnold)
 [![Twitter: MickeyA53](https://img.shields.io/twitter/follow/MickeyA53?style=social)](https://twitter.com/MickeyA53)
 
 ## About Me
