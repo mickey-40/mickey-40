@@ -12,7 +12,7 @@ I'm an aspiring software engineer who completed a coding boot camp through Gener
 - 😎 I have a diverse background: 
   - **Soldier**: Learned to work with a team to complete objectives.
   - **Electrician**: Developed troubleshooting skills and led job sites independently.
-  - **Math Teacher**: Designed data-driven lessons, led a grade-level team, differentiated lessons to meet individual needs, and achieved state test scores of over 90%.
+  - **Computer Science Teacher**: Designed data-driven lessons, led a grade-level team, differentiated lessons to meet individual needs, and achieved state test scores of over 90%.
 - 📫 How to reach me: 
   - **Email**: mickeyarnold53@yahoo.com
   - **LinkedIn**: [Mick Arnold](www.linkedin.com/in/mickey-arnold)
