@@ -14,10 +14,10 @@ I'm a full-stack Software Developer with a strong foundation in object-oriented 
 
 ### 📌 Featured Projects
 
-#### 🗂️ [Task Tracker App - Frontend](https://github.com/mickey-40/task-tracker-frontend) | [Backend](https://github.com/mickey-40/task-tracker-backend) | [Live Demo 🎥](https://youtu.be/voah5FT_SUI?si=ViDFdE-bpuJIbxdN)
+#### 🗂️ [Task Tracker App - Frontend](https://github.com/mickey-40/task-tracker-frontend) | [Backend](https://github.com/mickey-40/task-tracker-backend) | [Live Demo 🎥](https://youtu.be/Di7IPesQ6XI)
 A full-stack task manager with JWT auth, user roles, and mobile-responsive UI. Built with React, Node.js, Express, and MongoDB.
 
-#### 🛍️ [Shop Mickey](https://github.com/mickey-40/ecommerce-clone) | [Live Demo 🎥](https://youtu.be/rwK9zmAtuDI?si=TRkDvebMGYxbpJwk)
+#### 🛍️ [Shop Mickey](https://github.com/mickey-40/ecommerce-clone) | [Live Demo 🎥](https://youtu.be/imZB2FmVO2M)
 An Angular + TypeScript e-commerce front-end clone with routing, product details, and cart functionality.
 
 #### 🍽️ [Calorie Tracker Mobile App](https://github.com/mickey-40/CalorieTracker) | [Video Demo 🎥](https://youtube.com/shorts/9FEb2leDeXg?si=0wdqTccfzvIZY4XR)
